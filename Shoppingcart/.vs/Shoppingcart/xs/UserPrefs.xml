@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C4F65AB8-186A-4481-8A82-F026F3D38A63}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shoppingcart/Views/Home/Privacy.cshtml">
+    <Files>
+      <File FileName="Shoppingcart/Views/Home/Index.cshtml" Line="6" Column="37" />
+      <File FileName="Shoppingcart/Views/Shared/_Layout.cshtml" Line="35" Column="1" />
+      <File FileName="Shoppingcart/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Shoppingcart/Startup.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shoppingcart" expanded="True">
+            <Node name="Shoppingcart" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Privacy.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Shoppingcart PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
